@@ -1,0 +1,10 @@
+channels:
+  - conda-forge
+  - defaults
+  - anaconda
+dependencies:
+  - python
+  - pandas
+  - matplotlib
+  - ipykernel
+  - igraph
