@@ -8,4 +8,4 @@ dependencies:
   - matplotlib
   - numpy
   - ipykernel
-  - igraph
+  - python-igraph
