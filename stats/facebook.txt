@@ -1,0 +1,8 @@
+vertices: 747, edges: 30,025
+2
+num vertices: 747
+num edges: 30,025
+diameter: 7
+density: 0.108
+girth: 3
+assortativity: 0.503

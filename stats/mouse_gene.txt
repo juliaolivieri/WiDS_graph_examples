@@ -1,0 +1,8 @@
+vertices: 43,126, edges: 14,461,095
+97
+num vertices: 43,126
+num edges: 14,461,095
+diameter: 12
+density: 0.016
+girth: 3
+assortativity: 0.002
