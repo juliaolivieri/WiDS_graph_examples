@@ -1,0 +1,8 @@
+vertices: 685,230, edges: 6,649,470
+676
+num vertices: 685,230
+num edges: 6,649,470
+diameter: 714
+density: 0.000
+girth: 3
+assortativity: -0.113

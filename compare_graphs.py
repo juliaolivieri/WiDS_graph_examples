@@ -115,7 +115,7 @@ def main():
   print("found number of edges and vertices",time.time() - t0)
   outfile.write(num_comp(g) + "\n")
   print("found number of compartments",time.time() - t0)
-  outfile.write(summarize_graph(g),t0)
+  outfile.write(summarize_graph(g,t0))
   print("summarized graph",time.time() - t0)
   outfile.close()
 
