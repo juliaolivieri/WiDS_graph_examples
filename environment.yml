@@ -3,9 +3,9 @@ channels:
   - defaults
   - anaconda
 dependencies:
-  - python
-  - pandas
+  - ipykernel
   - matplotlib
   - numpy
-  - ipykernel
+  - pandas
+  - python
   - python-igraph

@@ -1,3 +1,6 @@
+jupyterlab
 matplotlib
 numpy
-jupyterlab
+pandas
+python-igraph
+
