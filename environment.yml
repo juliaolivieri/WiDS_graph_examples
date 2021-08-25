@@ -9,3 +9,4 @@ dependencies:
   - pandas
   - python
   - python-igraph
+  - cairocffi

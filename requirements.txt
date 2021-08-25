@@ -1,3 +1,4 @@
+cairocffi
 jupyterlab
 matplotlib
 numpy
